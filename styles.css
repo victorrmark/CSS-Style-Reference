@@ -1,0 +1,42 @@
+@font-face{
+    font-family: 'Worksans';
+    src: url('font/WorkSans-VariableFont_wght.ttf');
+}
+
+body{
+    margin: 0 auto;
+    width: 70%;
+    background-color:ghostwhite;
+    font-family: 'Worksans', Tahoma, sans-serif;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: mediumorchid;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+h2{
+    text-align: center;
+    color:mediumorchid;
+}
+
+table{
+    width: 80%;
+    margin: 0 auto;
+    border: 2px solid mediumorchid;
+}
+
+td{
+    border-top: 1px solid mediumorchid;
+}
+
+thead{
+    background-color: mediumorchid;
+}
+
+.att{
+    background-color:lightgrey;
+}
